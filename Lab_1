@@ -26,7 +26,7 @@ else:
     print("You Fail.")
 
 # 4. Write a resort activity advisory program that asks the user to enter the current temperature and the program
-# recommends an activity. Use the following guide for your program:
+# recommends an activity.
 
 temperature = float(input("Input your temperature: "))
 if temperature >= 80:
