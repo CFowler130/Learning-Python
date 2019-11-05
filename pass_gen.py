@@ -7,7 +7,7 @@ number = 0
 count = 0
 password = []
 
-length = input("Hey, Welcome. How many characters do you want in your password ?")
+length = input("Hey, Welcome. How many characters do you want in your password? ")
 length = int(length)
 
 # randomly select ascii character classes and individual characters
